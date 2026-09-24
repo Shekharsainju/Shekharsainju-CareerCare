@@ -6,7 +6,7 @@ The project is being built to reduce the amount of manual work involved in findi
 
 > **Current status:** Early development — Day 1 focused on establishing the backend architecture and job discovery pipeline.
 
-## Day 1 — Backend Foundation
+## Day 1: Backend Foundation
 
 The first development milestone focused on building the core backend services required to collect job listings, evaluate eligibility, and manage application data.
 
