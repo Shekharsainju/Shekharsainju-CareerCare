@@ -4,7 +4,7 @@ CareerCare is a job discovery and application tracking platform focused on the A
 
 The project is being built to reduce the amount of manual work involved in finding suitable roles, particularly for international students who need to consider factors such as visa eligibility, working rights, sponsorship requirements, and graduate program restrictions.
 
-> **Current status:** Early development — Day 1 focused on establishing the backend architecture and job discovery pipeline.
+> **Current status:** Early development: Day 1 focused on establishing the backend architecture and job discovery pipeline.
 
 ## Day 1: Backend Foundation
 
